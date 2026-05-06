@@ -1,1 +1,1 @@
-http://chaselathrop.github.io
+chaselathrop.github.io
